@@ -49,3 +49,4 @@ njbnkjb
 
 # Apache Subversion (SVN)
 
+# Добавил заключение
